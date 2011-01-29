@@ -1,0 +1,14 @@
+Arikado's Twitter-Hacks git
+---------------------------
+
+About:
+
+Back before Twitter limited the number of login attempts I wrote bruteforcers and dictionary attacks to take advantage of this flaw. Twitter now limits the number of attempted logins so these attacks are useless unless someone redesigns them to switch IPs after the limit is reached.
+
+License:
+
+No license other than the libcurl and twitcurl licenses included.
+
+Miscellaneous:
+
+Contact castlevania7689 <at> yahoo <dot> com if you do anything cool with this.
